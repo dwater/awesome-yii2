@@ -24,38 +24,35 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 ## 基于 Yii2 的开源程序
 
-- [GetYii](https://github.com/iiyii/getyii)：论坛
+- [EasyiiCMS](https://github.com/noumo/easyii)：基于 Yii2 的 CMS 系统
+- [luyadev/luya](https://github.com/luyadev/luya)：基于Yii2 CMS的编程框架。
+- [dcms2](https://github.com/djfly/dcms2)：yii2编写的cms
 - [dotplant2](https://github.com/DevGroup-ru/dotplant2)：来自俄罗斯的电子商务CMS
+- [YeeCMS](https://github.com/yeesoft/yii2-yee-cms)：基于 Yii2 的 CMS，独到之处是借用 composer 安装卸载模块，你看看他的 [composer.json](https://github.com/yeesoft/yii2-yee-cms/blob/master/composer.json) 文件你就知道了。
+- [hassiumsoft/hasscms-app](https://github.com/hassiumsoft/hasscms-app)：基于 Yii2 开发的 一个现代的、轻量级的、可扩展的PHP CMS 系统。
+
 - [yincart2](https://github.com/yincart2/galaxy)：电商星系系统，提供零售、批发、特卖、垂直电商、分销、O2O、C2C、移动电商、微信电商、社交电商、P2P、众筹等电商解决方案，根据需要选择不同的模块组合
 - [yii2-shop](https://github.com/samdark/yii2-shop)：使用Yii 2.0实现简单商店的示例项目
-- [funshop](https://github.com/funson86/funshop)：一个灵活的商城。
-- [huajuan](https://github.com/callmez/huajuan)：Yii2 实现的问答,微信,文章系统 Demo
-- [dcms2](https://github.com/djfly/dcms2)：yii2编写的cms
-- [MoBlog](https://github.com/mojifan/MoBlog)：一个基于Yii2的博客系统
-- [EasyiiCMS](https://github.com/noumo/easyii)：基于 Yii2 的 CMS 系统
-- [yii2-starter-kit](https://github.com/trntv/yii2-starter-kit)：Yii2 开箱即用
-- [yunjianyi](https://github.com/chonder/yunjianyi)：基于 Yii2 打造的 V2EX
-- [yii2-platform-basic](https://github.com/gromver/yii2-platform-basic)：基于 Yii2  基础版打造的 CMS
-- [lulucms2](https://github.com/yiifans/lulucms2) ：LuLu CMS2，模块化开发，集成强大的权限管理功能，非常适合二次开发
-- [hassiumsoft/hasscms-app](https://github.com/hassiumsoft/hasscms-app)：基于 Yii2 开发的 一个现代的、轻量级的、可扩展的PHP CMS 系统。
-- [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com)：新版官网首页正在开发中
-- [githubjeka/angular-yii2](https://github.com/githubjeka/angular-yii2)：yii2 restful + angular 实现前后端分离
-- [zephir/luya](https://github.com/zephir/luya)：基于Yii2 CMS的编程框架。
-- [humhub](https://github.com/humhub/humhub)：开源社交网络，以前说 Yii 1 现在迁移到 Yii2。
 - [xiaoego.com](https://github.com/daixianceng/xiaoego.com)：xiaoego.com源码，校园O2O购物平台。
-- [YeeCMS](https://github.com/yeesoft/yii2-yee-cms)：基于 Yii2 的 CMS，独到之处是借用 composer 安装卸载模块，你看看他的 [composer.json](https://github.com/yeesoft/yii2-yee-cms/blob/master/composer.json) 文件你就知道了。
+
+- [huajuan](https://github.com/callmez/huajuan)：Yii2 实现的问答,微信,文章系统 Demo
+- [yunjianyi](https://github.com/chonder/yunjianyi)：基于 Yii2 打造的 V2EX
+- [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com)：新版官网首页正在开发中
+
+- [githubjeka/angular-yii2](https://github.com/githubjeka/angular-yii2)：yii2 restful + angular 实现前后端分离
 
 
 ## Module 模块
-
-- [yii2-webshell](https://github.com/samdark/yii2-webshell) 在 web 下运行shell
-- [zhuravljov/yii2-rest](https://github.com/zhuravljov/yii2-rest) Yii2 REST 客户端
-- [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) RBAC Manager 基于角色的权限管理
 - [yii2-user](https://github.com/dektrium/yii2-user)
-- [yii2-setting](https://github.com/funson86/yii2-setting)：常见的在后台设置,可以使用在任何地方
 - [yii2-wechat](https://github.com/callmez/yii2-wechat)：基于Yii2实现的微信模块
-- [CostaRico/yii2-images](https://github.com/CostaRico/yii2-images)：图片尺寸裁剪解决方案
+- [yii2-setting](https://github.com/funson86/yii2-setting)：常见的在后台设置,可以使用在任何地方
+
+- [zhuravljov/yii2-rest](https://github.com/zhuravljov/yii2-rest) Yii2 REST 客户端
+- [yii2-webshell](https://github.com/samdark/yii2-webshell) 在 web 下运行shell
+- [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) RBAC Manager 基于角色的权限管理
 - [myweishanli/yii2-extjs-rbac](https://github.com/myweishanli/yii2-extjs-rbac)：Yii2 ExtJs5 RBAC+ACL 权限管理系统
+
+- [CostaRico/yii2-images](https://github.com/CostaRico/yii2-images)：图片尺寸裁剪解决方案
 - [bedezign/yii2-audit](https://github.com/bedezign/yii2-audit)：记录和显示web/cli请求，数据库更改php/js错误和相关数据。
 - [Chiliec/yii2-vote](https://github.com/Chiliec/yii2-vote)：提供点赞的模块
 
@@ -71,6 +68,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 
 ## Extension 扩展
+- [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
+- [alexandernst/yii2-device-detect](https://github.com/alexandernst/yii2-device-detect)：获取访问网站的设备信息。
 
 - [yiisoft](https://github.com/yiisoft)：Yii2 官方扩展
 - [kartik-v](http://demos.krajee.com/)：kartik-v 高产合集
@@ -85,7 +84,6 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [crontab](https://github.com/yii2tech/crontab)：Yii2 定时任务
 - [yii2-contextmenu](https://github.com/liyunfang/yii2-contextmenu)：Yii2 grid行右击操作
 - [yii2-smser](https://github.com/daixianceng/yii2-smser)：国内短信扩展
-- [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
 - [yiidoc/yii2-redactor](https://github.com/yiidoc/yii2-redactor)：大名鼎鼎的 [Redactor](http://imperavi.com/redactor/) 在线编辑器
 - [jamband/yii2-schemadump](https://github.com/jamband/yii2-schemadump)：用命令的方式对现有的数据库生成数据库迁移代码，内有 gif 演示。
 - [DenisOgr/yii2-cronjobs](https://github.com/DenisOgr/yii2-cronjobs)：用系统计划任务来每分钟运行这个PHP计划任务，然后你程序的计划任务的调用就写在 cron 这个控制器里就可以了。
@@ -98,7 +96,6 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 - [boundstate/yii2-mailgun](https://github.com/boundstate/yii2-mailgun)：mailgun 邮箱服务扩展。
 - [abhi1693/yii2-system-info](https://github.com/abhi1693/yii2-system-info)：获取 Windows 或者 Linux 系统信息。
 - [imanilchaudhari/yii2-rrssb](https://github.com/imanilchaudhari/yii2-rrssb)：分享到社交网络（主要是针对国外一些网站）。
-- [alexandernst/yii2-device-detect](https://github.com/alexandernst/yii2-device-detect)：获取访问网站的设备信息。
 - [yiister/yii2-advanced-grid](https://github.com/yiister/yii2-advanced-grid)：高级版的 grid，有[在线 demo](http://yiister.ru/projects/advanced-grid) 体验。
 - [hellowearemito/yii2-sentry](https://github.com/hellowearemito/yii2-sentry)： 收集日志神器——[Sentry](https://getsentry.com/) 的 Yii2 扩展。
 
