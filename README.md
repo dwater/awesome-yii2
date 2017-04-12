@@ -23,8 +23,9 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 
 ## 基于 Yii2 的开源程序
-
 - [EasyiiCMS](https://github.com/noumo/easyii)：基于 Yii2 的 CMS 系统
+- [rokorolov/parus](https://github.com/rokorolov/parus)：简单、模块化的CMF
+- [rokorolov/parus-basic-app](https://github.com/rokorolov/parus-basic-app)：开箱即用的CMS系统
 - [luyadev/luya](https://github.com/luyadev/luya)：基于Yii2 CMS的编程框架。
 - [dcms2](https://github.com/djfly/dcms2)：yii2编写的cms
 - [dotplant2](https://github.com/DevGroup-ru/dotplant2)：来自俄罗斯的电子商务CMS
@@ -37,9 +38,9 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 - [huajuan](https://github.com/callmez/huajuan)：Yii2 实现的问答,微信,文章系统 Demo
 - [yunjianyi](https://github.com/chonder/yunjianyi)：基于 Yii2 打造的 V2EX
-- [yiisoft-contrib/yiiframework.com](https://github.com/yiisoft-contrib/yiiframework.com)：新版官网首页正在开发中
 
 - [githubjeka/angular-yii2](https://github.com/githubjeka/angular-yii2)：yii2 restful + angular 实现前后端分离
+- [WadeShuler/yii2-members-system](https://github.com/WadeShuler/yii2-members-system)：会员管理系统
 
 
 ## Module 模块
