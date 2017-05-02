@@ -44,7 +44,8 @@ Yii2 干货集，欢迎点 Watch 订阅，也欢迎提交 Pull Requests。（提
 
 
 ## Module 模块
-- [yii2-user](https://github.com/dektrium/yii2-user)：Flexible user registration and authentication module for Yii2
+- [dektrium/yii2-user](https://github.com/dektrium/yii2-user)：Flexible user registration and authentication module for Yii2
+- [dektrium/yii2-rbac](https://github.com/dektrium/yii2-rbac)：Yii 2 module that helps managing your RBAC system
 - [WadeShuler/yii2-members-system](https://github.com/WadeShuler/yii2-members-system)：Yii2 Advanced (frontend, backend, mainsite) with Grunt Assets and AdminLTE already integrated
 - [yii2-wechat](https://github.com/callmez/yii2-wechat)：基于Yii2实现的微信模块
 - [yii2-setting](https://github.com/funson86/yii2-setting)：常见的在后台设置,可以使用在任何地方
