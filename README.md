@@ -14,7 +14,7 @@ Yii2 干货集
 - [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) RBAC Manager 基于角色的权限管理
 - [dektrium/yii2-user](https://github.com/dektrium/yii2-user)：Flexible user registration and authentication module for Yii2
 - [dektrium/yii2-rbac](https://github.com/dektrium/yii2-rbac)：Yii 2 module that helps managing your RBAC system
-
+- [yii2mod/yii2-comments](https://github.com/yii2mod/yii2-comments):Comments module for Yii2
 - [yii2-wechat](https://github.com/callmez/yii2-wechat)：基于Yii2实现的微信模块
 
 ## Extension 扩展
