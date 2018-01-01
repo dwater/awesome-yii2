@@ -18,11 +18,10 @@ Yii2 干货集
 - [yii2-wechat](https://github.com/callmez/yii2-wechat)：基于Yii2实现的微信模块
 
 ## Extension 扩展
-- [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
-- [alexandernst/yii2-device-detect](https://github.com/alexandernst/yii2-device-detect)：获取访问网站的设备信息。
-- [yiisoft](https://github.com/yiisoft)：Yii2 官方扩展
 - [kartik-v](http://demos.krajee.com/)：kartik-v 高产合集
 - [2amigos](http://yiiwheels.com/)：2amigos 团队高产合集
+- [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
+- [alexandernst/yii2-device-detect](https://github.com/alexandernst/yii2-device-detect)：获取访问网站的设备信息。
 
 ## Helpers 助手
 - [kartik-v/yii2-helpers](https://github.com/kartik-v/yii2-helpers)：[HTML](http://demos.krajee.com/helper-functions/html) 和 [枚举](http://demos.krajee.com/helper-functions/enum)的 helper
