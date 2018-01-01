@@ -21,6 +21,7 @@ Yii2 干货集
 - [kartik-v](http://demos.krajee.com/)：kartik-v 高产合集
 - [2amigos](http://yiiwheels.com/)：2amigos 团队高产合集
 - [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
+- [2amigos/yii2-qrcode-helper](Create QrCodes with ease)：获取访问网站的设备信息。
 - [alexandernst/yii2-device-detect](https://github.com/alexandernst/yii2-device-detect)：获取访问网站的设备信息。
 
 ## Helpers 助手
