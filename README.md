@@ -22,7 +22,7 @@ Yii2 干货集
 - [2amigos](http://yiiwheels.com/)：2amigos 团队高产合集
 - [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
 - [walkor/GatewayClient](https://github.com/walkor/GatewayClient)：Gateway Client
-- [alexandernst/yii2-device-detect](https://github.com/alexandernst/yii2-device-detect)：获取访问网站的设备信息。
+- [2amigos/yii2-qrcode-helper](https://github.com/2amigos/yii2-qrcode-helper)：Create QrCodes with ease 
 
 ## Helpers 助手
 - [kartik-v/yii2-helpers](https://github.com/kartik-v/yii2-helpers)：[HTML](http://demos.krajee.com/helper-functions/html) 和 [枚举](http://demos.krajee.com/helper-functions/enum)的 helper
