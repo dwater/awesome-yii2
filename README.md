@@ -20,7 +20,7 @@ Yii2 干货集
 ## Extension 扩展
 - [kartik-v](http://demos.krajee.com/)：kartik-v 高产合集
 - [2amigos](http://yiiwheels.com/)：2amigos 团队高产合集
-- [yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
+- [daixianceng/yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
 - [walkor/GatewayClient](https://github.com/walkor/GatewayClient)：Gateway Client
 - [2amigos/yii2-qrcode-helper](https://github.com/2amigos/yii2-qrcode-helper)：Create QrCodes with ease 
 
