@@ -9,6 +9,7 @@ Yii2 干货集
 - [rokorolov/parus](https://github.com/rokorolov/parus)：简单、模块化的CMF
 - [rokorolov/parus-basic-app](https://github.com/rokorolov/parus-basic-app)：开箱即用的CMS系统
 - [WadeShuler/yii2-members-system](https://github.com/WadeShuler/yii2-members-system)：会员管理系统
+- [liufee/cms](https://github.com/liufee/cms)：Feehi CMS based on yii2
 
 ## Module 模块
 - [mdmsoft/yii2-admin](https://github.com/mdmsoft/yii2-admin) RBAC Manager 基于角色的权限管理
@@ -20,7 +21,7 @@ Yii2 干货集
 ## Extension 扩展
 - [kartik-v](http://demos.krajee.com/)：kartik-v 高产合集
 - [2amigos](http://yiiwheels.com/)：2amigos 团队高产合集
-- [daixianceng/yii2-echarts](https://github.com/daixianceng/yii2-echarts)：Yii2 ECharts扩展
+- [daixianceng/yii2-echarts](https://github.com/daixianceng/yii2-echarts)：ECharts widget for Yii2.
 - [walkor/GatewayClient](https://github.com/walkor/GatewayClient)：Gateway Client
 - [2amigos/yii2-qrcode-helper](https://github.com/2amigos/yii2-qrcode-helper)：Create QrCodes with ease 
 
