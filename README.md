@@ -21,6 +21,7 @@ Yii2 干货集
 ## Extension 扩展
 - [kartik-v](http://demos.krajee.com/)：kartik-v 高产合集
 - [2amigos](http://yiiwheels.com/)：2amigos 团队高产合集
+- [romka-chev/yii2-swiper](https://github.com/romka-chev/yii2-swiper)：Yii2 widget for Swiper slider gallery
 - [daixianceng/yii2-echarts](https://github.com/daixianceng/yii2-echarts)：ECharts widget for Yii2.
 - [walkor/GatewayClient](https://github.com/walkor/GatewayClient)：Gateway Client
 - [2amigos/yii2-qrcode-helper](https://github.com/2amigos/yii2-qrcode-helper)：Create QrCodes with ease 
